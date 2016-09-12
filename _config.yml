@@ -12,7 +12,7 @@ timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https:har1eyk.github.io
+url: https://github.com/har1eyk/har1eyk.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,7 +70,7 @@ theme: landscape
 deploy: 
   type: git
   repo: https://github.com/har1eyk/har1eyk.github.io
-  branch: [branch]
+  branch: master
   message: [message]
   name: har1eyk
   email: harleyk@gmail.com
